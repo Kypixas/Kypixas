@@ -57,8 +57,9 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 
 ### 📫 How to Reach Me
 -LinkedIn: www.linkedin.com/in/kristupaspocius 
--Gmail:  kristuopas43@gmail.com
+-Gmail:  kristupas43@gmail.com
 -Facebook: https://www.facebook.com/kristupas.pocius/
+![gmail logo](https://github.com/user-attachments/assets/f52dc564-3714-4d67-a76a-d4c0ca646f5b)
 
 ### 💬 Let's Connect!  
 Feel free to explore my repositories, follow my work, and reach out if you'd like to collaborate or learn more about my projects. I’m always open to new opportunities and challenges!
