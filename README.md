@@ -27,7 +27,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 
 **Big Data**:
 - SQL, Big Query.
-
+Retention, Cohorts & Churn.md
 ### 📊 Projects
 #### 1. **[Retention, Cohorts & Churn.md]**  
 - **Description**: A detailed analysis of [specific topic].  
