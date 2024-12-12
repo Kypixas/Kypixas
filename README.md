@@ -26,11 +26,8 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - Photoshop & Illustrator (for texture creation)
 
 
-📊 Projects  
-1. [Retention, Cohorts & Churn](path/to/Retention, Cohorts & Churn.md)  
-    - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
-    - **Technologies**: SQL, BigQuery, Google Spreadsheets  
-    - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
+[Retention, Cohorts & Churn](https://github.com/yourusername/yourrepository/blob/main/Retention,%20Cohorts%20&%20Churn.md)
+
 
 
 
