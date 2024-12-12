@@ -55,13 +55,13 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - Real-Time Data Analytics
 - 3D Modeling & Texturing for Games
 
+### 💬 Let's Connect!  
+Feel free to explore my repositories, follow my work, and reach out if you'd like to collaborate or learn more about my projects. I’m always open to new opportunities and challenges!
+
 ### 📫 How to Reach Me
 -LinkedIn: www.linkedin.com/in/kristupaspocius 
 -Gmail:  kristupas43@gmail.com
 -Facebook: https://www.facebook.com/kristupas.pocius/
-
-### 💬 Let's Connect!  
-Feel free to explore my repositories, follow my work, and reach out if you'd like to collaborate or learn more about my projects. I’m always open to new opportunities and challenges!
 
 ---
 
