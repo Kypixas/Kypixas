@@ -86,6 +86,7 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 
 
+
 ### ⚡ Fun Fact
 Besides data analysis, I am also passionate about creating **realistic textures** for 3D models. One such project includes designing skins for Counter-Strike. You can view my submissions on my Steam Workshop page: [Counter-Strike Skins & Textures](https://steamcommunity.com/id/kypixas/myworkshopfiles/)
 <img src="https://github.com/user-attachments/assets/1b61d129-24fb-4e75-97b2-c61e6a8eebea" alt="wastelandhero preview" width="400"/>
