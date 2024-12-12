@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a Data Analyst with a background in Occupational Therapy, currently exploring the world of data analytics and creative design.
 
-### 🎯 About Me 📊
+### 🎯 About Me 
 
 - **Occupation**: Data Analyst & Texture Artist  
 - **Background**: Occupational Therapist with a passion for solving complex problems and designing immersive designs.  
