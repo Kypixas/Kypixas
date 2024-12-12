@@ -68,12 +68,10 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 📫 How to Reach Me
 
-📫 How to Reach Me
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LinkedIn_Logo_2013.png" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/kristupaspocius)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gmail_logo_2020.png" alt="Gmail" width="20"/> [Gmail](mailto:kristupas43@gmail.com)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/LinkedIn_icon.svg" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/kristupaspocius)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.svg" alt="Gmail" width="20"/> [Gmail](mailto:kristupas43@gmail.com)  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"/> [Facebook](https://www.facebook.com/kristupas.pocius/)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Steam_logo.svg" alt="Steam" width="20"/> [Steam](https://steamcommunity.com/id/kypixas)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="20"/> [Steam](https://steamcommunity.com/id/kypixas)
 
 
 
