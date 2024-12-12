@@ -65,6 +65,14 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 ---
 
+📫 How to Reach Me
+
+- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/87/LinkedIn_Logo_2013.png) [LinkedIn](https://www.linkedin.com/in/kristupaspocius)  
+- ![Gmail](https://upload.wikimedia.org/wikipedia/commons/0/09/Gmail_logo_2020.png) [Gmail](mailto:kristupas43@gmail.com)  
+- ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) [Facebook](https://www.facebook.com/kristupas.pocius/)  
+- ![Steam](https://upload.wikimedia.org/wikipedia/commons/1/1b/Steam_logo.svg) [Steam](https://steamcommunity.com/id/kypixas)
+
+
 ### ⚡ Fun Fact
 Besides data analysis, I am also passionate about creating **realistic textures** for 3D models. One such project includes designing skins for Counter-Strike. You can view my submissions on my Steam Workshop page: [Counter-Strike Skins & Textures](https://steamcommunity.com/id/kypixas/myworkshopfiles/)
 <img src="https://github.com/user-attachments/assets/1b61d129-24fb-4e75-97b2-c61e6a8eebea" alt="wastelandhero preview" width="400"/>
