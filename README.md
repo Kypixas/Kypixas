@@ -66,7 +66,7 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 ---
 
 ### ⚡ Fun Fact
-Besides data analysis, I’m also passionate about creating **realistic textures** for 3D models, bringing virtual worlds to life with every detail. I love combining creativity with logic in all aspects of my work!
+Besides data analysis, I am also passionate about creating **realistic textures** for 3D models. One such project includes designing skins for Counter-Strike. You can view my submissions on my Steam Workshop page: [Counter-Strike Skins & Textures](https://steamcommunity.com/id/kypixas/myworkshopfiles/)
 
 ---
 
