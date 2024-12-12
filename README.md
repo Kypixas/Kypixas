@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a Data Analyst with a background in Occupational Therapy, currently exploring the world of data analytics and creative design.
 
-### 🎯 About Me
+### 🎯 About Me 📊
 
 - **Occupation**: Data Analyst & Texture Artist  
 - **Background**: Occupational Therapist with a passion for solving complex problems and designing immersive visuals.  
@@ -28,8 +28,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 **Big Data**:
 - SQL, Big Query.
   
-
-###📊 Projects
+### 📊 Projects
 
 1. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3.git)  
     - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
