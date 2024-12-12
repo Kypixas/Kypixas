@@ -48,7 +48,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 ### 📚 Education
 
 - **Bachelor’s in Occupational Therapy** - Kaunas College  
-- **Studying Data Analytics** - [Your Current Program Name]  
+- **Studying Data Analytics** - Turing College  
 
 ### 🌱 Currently Learning
 - Advanced Machine Learning Techniques
@@ -56,20 +56,12 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - 3D Modeling & Texturing for Games
 
 ### 📫 How to Reach Me
-- [LinkedIn Profile Link]  
-- [Email Address]  
-- [Portfolio/Personal Website Link]
+-LinkedIn: www.linkedin.com/in/kristupaspocius 
+-Gmail:  kristuopas43@gmail.com
+-Facebook: https://www.facebook.com/kristupas.pocius/
 
 ### 💬 Let's Connect!  
 Feel free to explore my repositories, follow my work, and reach out if you'd like to collaborate or learn more about my projects. I’m always open to new opportunities and challenges!
-
----
-
-### 🚀 Open Source Contributions
-
-I contribute to various open-source projects related to **data analysis**, **machine learning**, and **3D art**. Check out my contributions below:
-
-- **[Open Source Project Name]** - [Link to Project]
 
 ---
 
