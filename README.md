@@ -52,7 +52,6 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - **Studying Data Analytics** - Turing College  
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning Techniques
 - Real-Time Data Analytics
 - 3D Modeling & Texturing for Games
 
