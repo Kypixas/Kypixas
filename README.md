@@ -37,9 +37,20 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 
       
 #### 2. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md) 
-- **Description**: Creating realistic textures for [specific model or game].  
-- **Tools Used**: Blender, Substance Painter, Marmoset  
-- **Outcome**: [Description of the results]
+# AdventureWorks Data Dashboard - Analysis and Insights
+## Description:
+This dashboard provides a comprehensive overview of the sales performance and customer insights for AdventureWorks. It visualizes key metrics like sales trends, profit margins, customer demographics, and product categories. The goal of the dashboard is to identify patterns and trends that can inform business decisions and highlight areas for improvement in sales strategies.
+
+## Tools Used:
+- **Tableau**: For data visualization and creating the interactive dashboard.
+- **SQL**: For data extraction and pre-processing using queries.
+
+## Outcome:
+- Improved data accessibility for business teams, allowing for better decision-making based on up-to-date sales and customer data.
+- Identification of key performance indicators (KPIs) like average profit per customer and year-over-year growth percentage.
+- Enhanced dashboard interactivity, including custom filters to allow users to explore the data more deeply.
+- Insights into customer segments and product categories driving the most sales, allowing for targeted sales strategies.
+
 
 #### 3. **[Project Name]**  
 - **Description**: Exploring data trends to improve [specific business outcome].  
