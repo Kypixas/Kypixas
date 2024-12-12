@@ -29,10 +29,13 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - SQL, Big Query.
   
 
+###📊 Projects
+
 1. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3.git)  
     - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
     - **Technologies**: SQL, BigQuery, Google Spreadsheets  
     - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
+
       
 #### 2. **[Project Name]**  
 - **Description**: Creating realistic textures for [specific model or game].  
