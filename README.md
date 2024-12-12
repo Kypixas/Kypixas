@@ -67,10 +67,13 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 📫 How to Reach Me
 
-- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/87/LinkedIn_Logo_2013.png) [LinkedIn](https://www.linkedin.com/in/kristupaspocius)  
-- ![Gmail](https://upload.wikimedia.org/wikipedia/commons/0/09/Gmail_logo_2020.png) [Gmail](mailto:kristupas43@gmail.com)  
-- ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) [Facebook](https://www.facebook.com/kristupas.pocius/)  
-- ![Steam](https://upload.wikimedia.org/wikipedia/commons/1/1b/Steam_logo.svg) [Steam](https://steamcommunity.com/id/kypixas)
+📫 How to Reach Me
+
+- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/87/LinkedIn_Logo_2013.png =20x20) [LinkedIn](https://www.linkedin.com/in/kristupaspocius)  
+- ![Gmail](https://upload.wikimedia.org/wikipedia/commons/0/09/Gmail_logo_2020.png =20x20) [Gmail](mailto:kristupas43@gmail.com)  
+- ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg =20x20) [Facebook](https://www.facebook.com/kristupas.pocius/)  
+- ![Steam](https://upload.wikimedia.org/wikipedia/commons/1/1b/Steam_logo.svg =20x20) [Steam](https://steamcommunity.com/id/kypixas)
+
 
 
 ### ⚡ Fun Fact
