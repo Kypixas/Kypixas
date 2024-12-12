@@ -62,19 +62,19 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 <p>
   <a href="https://www.linkedin.com/in/kristupaspocius">
-    <img src="https://github.com/user-attachments/assets/cfe6862d-4e92-454b-a86d-41a14e8d0a0b" alt="LinkedIn" width="20"/>
+    <img src="https://github.com/user-attachments/assets/cfe6862d-4e92-454b-a86d-41a14e8d0a0b" alt="LinkedIn" width="40"/>
   </a> 
 
   <a href="mailto:kristupas43@gmail.com">
-    <img src="https://github.com/user-attachments/assets/4bc35c82-79ac-4259-aa0c-03cf233378d0" alt="Gmail" width="20"/>
+    <img src="https://github.com/user-attachments/assets/4bc35c82-79ac-4259-aa0c-03cf233378d0" alt="Gmail" width="40"/>
   </a>
 
   <a href="https://www.facebook.com/kristupaspocius/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40"/>
   </a>
 
   <a href="https://steamcommunity.com/id/kypixas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="40"/>
   </a>
 </p>
 
