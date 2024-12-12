@@ -26,7 +26,8 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - Photoshop & Illustrator (for texture creation)
 
 
-[Retention, Cohorts & Churn](https://github.com/yourusername/yourrepository/blob/main/Retention,%20Cohorts%20&%20Churn.md)
+[Retention, Cohorts & Churn](../turingcollegesubmissions/Retention,%20Cohorts%20&%20Churn.md)
+
 
 
 
