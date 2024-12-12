@@ -72,9 +72,11 @@ Besides data analysis, I’m also passionate about creating **realistic textures
 
 Thank you for visiting my profile!
 ### 📫 How to Reach Me
+### 📫 How to Reach Me
 
 - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2013.svg/1200px-LinkedIn_Logo_2013.svg.png)](https://www.linkedin.com/in/kristupaspocius) LinkedIn
 - [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gmail_Logo_2020.png/800px-Gmail_Logo_2020.png)](mailto:kristupas43@gmail.com) Gmail
 - [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png)](https://www.facebook.com/kristupas.pocius/) Facebook
+
 
 
