@@ -29,8 +29,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - SQL, Big Query.
 
 ### 📊 Projects
-https://github.com/TuringCollegeSubmissions/kpociu-MAT2.4.6.git
-#### 1. **[Project Name]**  
+#### 1. **[Retention, Cohorts & Churn.md]**  
 - **Description**: A detailed analysis of [specific topic].  
 - **Technologies**: SQL, Python (Pandas, Matplotlib), Tableau  
 - **Outcome**: [Key findings and impact of the project]
