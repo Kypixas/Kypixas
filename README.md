@@ -36,7 +36,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
     - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
 
       
-#### 2. **[Project Name]**  
+#### 2. **[[Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md)  ]**  
 - **Description**: Creating realistic textures for [specific model or game].  
 - **Tools Used**: Blender, Substance Painter, Marmoset  
 - **Outcome**: [Description of the results]
