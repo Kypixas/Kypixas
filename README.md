@@ -25,10 +25,19 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - Digital Art and Design
 - Photoshop & Illustrator (for texture creation)
 
+
+📊 Projects  
+1. [Retention, Cohorts & Churn](path/to/Retention, Cohorts & Churn.md)  
+    - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
+    - **Technologies**: SQL, BigQuery, Google Spreadsheets  
+    - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
+
+
+
 **Big Data**:
 - SQL, Big Query.
 ### 📊 Projects
-#### 2. **[Project Name]** 
+#### 1. **[Project Name]** 
 - **Description**: A detailed analysis of [specific topic].  
 - **Technologies**: SQL, Python (Pandas, Matplotlib), Tableau  
 - **Outcome**: [Key findings and impact of the project]
