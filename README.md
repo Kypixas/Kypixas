@@ -60,22 +60,23 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 ### 📫 How to Reach Me
 <p>
-  <a href="https://www.linkedin.com/in/kristupaspocius">
-    <img src="https://github.com/user-attachments/assets/cfe6862d-4e92-454b-a86d-41a14e8d0a0b" alt="LinkedIn" width="80" style="margin-right: 2cm;"/>
+  <a href="https://www.linkedin.com/in/kristupaspocius" style="display:inline-block; margin-right: 2cm;">
+    <img src="https://github.com/user-attachments/assets/cfe6862d-4e92-454b-a86d-41a14e8d0a0b" alt="LinkedIn" width="80"/>
   </a>
   
-  <a href="mailto:kristupas43@gmail.com">
-    <img src="https://github.com/user-attachments/assets/4bc35c82-79ac-4259-aa0c-03cf233378d0" alt="Gmail" width="80" style="margin-right: 2cm;"/>
+  <a href="mailto:kristupas43@gmail.com" style="display:inline-block; margin-right: 2cm;">
+    <img src="https://github.com/user-attachments/assets/4bc35c82-79ac-4259-aa0c-03cf233378d0" alt="Gmail" width="80"/>
   </a>
   
-  <a href="https://www.facebook.com/kristupaspocius/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="80" style="margin-right: 2cm;"/>
+  <a href="https://www.facebook.com/kristupaspocius/" style="display:inline-block; margin-right: 2cm;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="80"/>
   </a>
   
-  <a href="https://steamcommunity.com/id/kypixas">
+  <a href="https://steamcommunity.com/id/kypixas" style="display:inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80"/>
   </a>
 </p>
+
 
 
 
