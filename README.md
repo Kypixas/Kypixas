@@ -57,6 +57,13 @@ This dashboard provides a comprehensive overview of the sales performance and cu
 - **Technologies**: Google sheets
 - **Outcome**: Delivered a comprehensive dashboard showcasing monthly sales trends, delivery performance, online vs. non-online orders, top salespeople, top-performing countries, and key sales reasons. Insights informed strategies for boosting sales performance, optimizing delivery timelines, and identifying high-performing regions and personnel.
 
+#### 4. [Funnels](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.2.2/blob/main/Funnels.md)
+- **Description**: Analyzed user event data and created a funnel chart to identify key user behavior trends across different stages of engagement. Focused on understanding drop-off points and providing actionable insights to optimize user experience and conversion rates.
+- **Technologies**: Google Sheets, SQL, Data Visualization
+- **Outcome**: Created a comprehensive funnel chart with user segmentation by country and category. Provided valuable insights into user behavior, including recommendations for improving product discovery, optimizing content for tablets, enhancing product pages, and streamlining the checkout process to increase conversion rates.
+
+  
+
 
 ### 📚 Education
 
