@@ -62,6 +62,13 @@ This dashboard provides a comprehensive overview of the sales performance and cu
 - **Technologies**: Google Sheets, SQL, Data Visualization
 - **Outcome**: Created a comprehensive funnel chart with user segmentation by country and category. Provided valuable insights into user behavior, including recommendations for improving product discovery, optimizing content for tablets, enhancing product pages, and streamlining the checkout process to increase conversion rates.
 
+  #### 5. [Cohort Revenue Analysis](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.3.4/blob/main/Cohort%20Revenue%20Analysis.md)
+- **Description**: Analyzed cohort revenue data to uncover patterns in customer behavior, revenue growth, and engagement over time. The analysis focused on cohort-based revenue trends, cumulative growth, and predictive insights for future performance.
+- **Technologies**: Big Query, Google Sheets
+- **Outcome**: Delivered visualizations and insights that highlighted key trends in customer engagement and revenue. Key findings include strong early performance in initial weeks, a noticeable drop in engagement over time, and the identification of critical periods for boosting revenue. Actionable insights include recommendations for improving user acquisition strategies, enhancing retention programs, and optimizing marketing spend for better customer acquisition efficiency.
+
+  
+
   
 
 
