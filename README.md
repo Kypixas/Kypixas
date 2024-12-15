@@ -66,6 +66,12 @@ This dashboard provides a comprehensive overview of the sales performance and cu
 - **Description**: Analyzed cohort revenue data to uncover patterns in customer behavior, revenue growth, and engagement over time. The analysis focused on cohort-based revenue trends, cumulative growth, and predictive insights for future performance.
 - **Technologies**: Big Query, Google Sheets
 - **Outcome**: Delivered visualizations and insights that highlighted key trends in customer engagement and revenue. Key findings include strong early performance in initial weeks, a noticeable drop in engagement over time, and the identification of critical periods for boosting revenue. Actionable insights include recommendations for improving user acquisition strategies, enhancing retention programs, and optimizing marketing spend for better customer acquisition efficiency.
+- 
+  #### 6. [Fast Food Marketing Campaign A/B Test Analysis](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.3.4/blob/main/README.md)
+- **Description**: Analyzed and evaluated the effectiveness of three marketing campaigns for a fast-food chain using A/B testing to identify the most profitable campaign across multiple store locations.  
+- **Technologies**: Big Query, Google sheets
+- **Outcome**: Conducted pairwise t-tests to compare the sales performance of the three campaigns. Results highlighted that **Promotion 1** outperforms **Promotion 2**, while **Promotion 3** was not statistically significant. Further testing is recommended between **Promotion 2** and **Promotion 3** to optimize future campaigns.
+
 
   
 
