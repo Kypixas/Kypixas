@@ -54,10 +54,11 @@ This dashboard provides a comprehensive overview of the sales performance and cu
 
 
 
-#### 3. **[Project Name]**  
-- **Description**: Exploring data trends to improve [specific business outcome].  
-- **Technologies**: R, Power BI, Machine Learning  
-- **Outcome**: [Key findings and impact of the project]
+#### 3. [AdventureWorks Sales Analysis](https://github.com/TuringCollegeSubmissions/kpociu-IDA2.2.5/blob/main/AdventureWorks%20Sales%20Analysis.md)
+- **Description**:  Analyzed and visualized AdventureWorks sales data to uncover key business insights and improve decision-making.  
+- **Technologies**: Google sheets
+- **Outcome**: Delivered a comprehensive dashboard showcasing monthly sales trends, delivery performance, online vs. non-online orders, top salespeople, top-performing countries, and key sales reasons. Insights informed strategies for boosting sales performance, optimizing delivery timelines, and identifying high-performing regions and personnel.
+
 
 ### 📚 Education
 
