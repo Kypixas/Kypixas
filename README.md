@@ -26,6 +26,7 @@
 
 **Big Data**:
 - SQL, Big Query.
+  
   ---
 ### 📊 Projects
 #### 1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md)
