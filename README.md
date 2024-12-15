@@ -74,14 +74,10 @@ This dashboard provides a comprehensive overview of the sales performance and cu
 - Further testing is recommended between **Promotion 2** and **Promotion 3** to optimize future campaigns.
  ### 📊7. [RFM Analysis](https://github.com/Kypixas/RFM/blob/main/README.md)  
 - **Description**: Conducted RFM (Recency, Frequency, Monetary) analysis to segment customers based on purchasing behavior and identify key customer groups.  
-- **Technologies**: Python  
+- **Technologies**: SQL( Big Query), Tableau
 - **Outcome**: Created actionable insights for customer retention and re-engagement strategies by segmenting customers into categories like "Champions," "Loyal Customers," and "At-Risk." Recommendations improved targeting of marketing efforts and customer value growth.
 
 ---
-
-  
-
-  
 
 
 ## 📚 Education
