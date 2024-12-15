@@ -29,7 +29,7 @@
   
   ---
 ### 📊 Projects
-#### 1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md)
+#### 1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/Kypixas/AdventureWorks-Data-Dashboard-Analysis-and-Insights/blob/main/README.md)
 
 - **Description**:  
 This dashboard provides a comprehensive overview of the sales performance and customer insights for AdventureWorks. It visualizes key metrics such as sales trends, profit margins, customer demographics, and product categories. The goal of the dashboard is to identify patterns and trends that can inform business decisions and highlight areas for improvement in sales strategies.
