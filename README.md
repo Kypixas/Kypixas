@@ -43,8 +43,10 @@ This dashboard provides a comprehensive overview of the sales performance and cu
     - Identification of key performance indicators (KPIs), including average profit per customer and year-over-year growth percentage.
     - Enhanced dashboard interactivity, featuring custom filters to allow users to explore the data more deeply.
     - Insights into customer segments and product categories driving the most sales, enabling targeted sales strategies.
+    - 
+  
+ 2. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3#readme)
 
-2. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3.git)  
     - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
     - **Technologies**: SQL, BigQuery, Google Spreadsheets  
     - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
