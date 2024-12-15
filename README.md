@@ -29,14 +29,7 @@ I specialize in combining **data analytics** and **creative design** to uncover 
 - SQL, Big Query.
   
 ### 📊 Projects
-
-1. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3.git)  
-    - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
-    - **Technologies**: SQL, BigQuery, Google Spreadsheets  
-    - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
-
-      
-#### 2. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md)
+#### 1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/TuringCollegeSubmissions/kpociu-CAR.TAB.1.5/blob/main/AdventureWorks%20Data%20Dashboard%20-%20Analysis%20and%20Insights.md)
 
 - **Description**:  
 This dashboard provides a comprehensive overview of the sales performance and customer insights for AdventureWorks. It visualizes key metrics such as sales trends, profit margins, customer demographics, and product categories. The goal of the dashboard is to identify patterns and trends that can inform business decisions and highlight areas for improvement in sales strategies.
@@ -51,8 +44,11 @@ This dashboard provides a comprehensive overview of the sales performance and cu
     - Enhanced dashboard interactivity, featuring custom filters to allow users to explore the data more deeply.
     - Insights into customer segments and product categories driving the most sales, enabling targeted sales strategies.
 
-
-
+2. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3.git)  
+    - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
+    - **Technologies**: SQL, BigQuery, Google Spreadsheets  
+    - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
+      
 
 #### 3. [AdventureWorks Sales Analysis](https://github.com/TuringCollegeSubmissions/kpociu-IDA2.2.5/blob/main/AdventureWorks%20Sales%20Analysis.md)
 - **Description**:  Analyzed and visualized AdventureWorks sales data to uncover key business insights and improve decision-making.  
