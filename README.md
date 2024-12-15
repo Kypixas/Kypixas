@@ -2,14 +2,14 @@
 
 #### Welcome to my GitHub profile! I’m a Data Analyst with a background in Occupational Therapy, currently exploring the world of data analytics and creative design.
 ---
-### 🎯 About Me 
+## 🎯 About Me 
 
 - **Occupation**: Data Analyst & Texture Artist  
 - **Background**: Occupational Therapist with a passion for solving complex problems and designing immersive designs.  
 - **Current Focus**: Leveraging data-driven insights and creativity to enhance user experiences and solve real-world challenges.
 #### I specialize in combining **data analytics** and **creative design** to uncover insights and build impactful solutions. Whether it's analyzing trends or crafting realistic textures for 3D models, I bring a meticulous and innovative approach to every project.
 ---
-### 🔧 Skills & Tools
+## 🔧 Skills & Tools
 
 **Data Analytics**:
 - Data Analysis
@@ -28,8 +28,8 @@
 - SQL, Big Query.
   
   ---
-### 📊 Projects
-#### 1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/Kypixas/AdventureWorks-Data-Dashboard-Analysis-and-Insights/blob/main/README.md)
+## 📊 Projects
+#### 📊1. [AdventureWorks Data Dashboard - Analysis and Insights](https://github.com/Kypixas/AdventureWorks-Data-Dashboard-Analysis-and-Insights/blob/main/README.md)
 
 - **Description**:  
 This dashboard provides a comprehensive overview of the sales performance and customer insights for AdventureWorks. It visualizes key metrics such as sales trends, profit margins, customer demographics, and product categories. The goal of the dashboard is to identify patterns and trends that can inform business decisions and highlight areas for improvement in sales strategies.
@@ -44,30 +44,30 @@ This dashboard provides a comprehensive overview of the sales performance and cu
     - Enhanced dashboard interactivity, featuring custom filters to allow users to explore the data more deeply.
     - Insights into customer segments and product categories driving the most sales, enabling targeted sales strategies.
   ---
-#### 2. [Retention, Cohorts & Churn](https://github.com/Kypixas/Retention-Cohorts-Churn)
+#### 📊2. [Retention, Cohorts & Churn](https://github.com/Kypixas/Retention-Cohorts-Churn)
 - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate to understand user behavior and optimize retention strategies.  
 - **Technologies**: SQL, BigQuery, Google Spreadsheets  
 - **Outcome**: Identified key churn trends, provided actionable insights, and recommended strategies to improve subscription retention and reduce churn.
 ---
       
 
-#### 3. [AdventureWorks Sales Analysis](https://github.com/Kypixas/AdventureWorks-Sales-Analysis-Overview)
+#### 📊3. [AdventureWorks Sales Analysis](https://github.com/Kypixas/AdventureWorks-Sales-Analysis-Overview)
 - **Description**:  Analyzed and visualized AdventureWorks sales data to uncover key business insights and improve decision-making.  
 - **Technologies**: Google sheets
 - **Outcome**: Delivered a comprehensive dashboard showcasing monthly sales trends, delivery performance, online vs. non-online orders, top salespeople, top-performing countries, and key sales reasons. Insights informed strategies for boosting sales performance, optimizing delivery timelines, and identifying high-performing regions and personnel.
 ---
-#### 4. [Funnels](https://github.com/Kypixas/Funnels)
+#### 📊4. [Funnels](https://github.com/Kypixas/Funnels)
 - **Description**: Analyzed user event data and created a funnel chart to identify key user behavior trends across different stages of engagement. Focused on understanding drop-off points and providing actionable insights to optimize user experience and conversion rates.
 - **Technologies**: Google Sheets, SQL, Data Visualization
 - **Outcome**: Created a comprehensive funnel chart with user segmentation by country and category. Provided valuable insights into user behavior, including recommendations for improving product discovery, optimizing content for tablets, enhancing product pages, and streamlining the checkout process to increase conversion rates.
 ---
-  #### 5. [Cohort Revenue Analysis](https://github.com/Kypixas/Cohort-revenue-analysis)
+  #### 📊5. [Cohort Revenue Analysis](https://github.com/Kypixas/Cohort-revenue-analysis)
 - **Description**: Analyzed cohort revenue data to uncover patterns in customer behavior, revenue growth, and engagement over time. The analysis focused on cohort-based revenue trends, cumulative growth, and predictive insights for future performance.
 - **Technologies**: Big Query, Google Sheets
 - **Outcome**: Delivered visualizations and insights that highlighted key trends in customer engagement and revenue. Key findings include strong early performance in initial weeks, a noticeable drop in engagement over time, and the identification of critical periods for boosting revenue. Actionable insights include recommendations for improving user acquisition strategies, enhancing retention programs, and optimizing marketing spend for better customer acquisition efficiency.
 - 
   ---
-  #### 6. [Fast Food Marketing Campaign A/B Test Analysis](https://github.com/Kypixas/Fast-Food-Marketing-Camapaign-A-B-Test-Analysis)
+  #### 📊6. [Fast Food Marketing Campaign A/B Test Analysis](https://github.com/Kypixas/Fast-Food-Marketing-Camapaign-A-B-Test-Analysis)
 - **Description**: Analyzed and evaluated the effectiveness of three marketing campaigns for a fast-food chain using A/B testing to identify the most profitable campaign across multiple store locations.  
 - **Technologies**: Big Query, Google sheets
 - **Outcome**: Conducted pairwise t-tests to compare the sales performance of the three campaigns. Results highlighted that **Promotion 1** outperforms **Promotion 2**, while **Promotion 3** was not statistically significant.
