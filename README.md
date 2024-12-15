@@ -79,19 +79,19 @@ This dashboard provides a comprehensive overview of the sales performance and cu
   
 
 
-### 📚 Education
+## 📚 Education
 
 - **Bachelor’s in Occupational Therapy** - Kaunas College  
 - **Studying Data Analytics** - Turing College  
 ---
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Real-Time Data Analytics
 - 3D Modeling & Texturing for Games
 ---
-### 💬 Let's Connect!  
+## 💬 Let's Connect!  
 Feel free to explore my repositories, follow my work, and reach out if you'd like to collaborate or learn more about my projects. I’m always open to new opportunities and challenges!
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 <p>
   <a href="https://www.linkedin.com/in/kristupaspocius">
     <img src="https://github.com/user-attachments/assets/cfe6862d-4e92-454b-a86d-41a14e8d0a0b" alt="LinkedIn" width="80"/>
@@ -123,7 +123,7 @@ Feel free to explore my repositories, follow my work, and reach out if you'd lik
 
 
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 Besides data analysis, I am also passionate about creating **realistic textures** for 3D models. One such project includes designing skins for Counter-Strike. You can view my submissions on my Steam Workshop page: [Counter-Strike Skins & Textures](https://steamcommunity.com/id/kypixas/myworkshopfiles/)
 <img src="https://github.com/user-attachments/assets/1b61d129-24fb-4e75-97b2-c61e6a8eebea" alt="wastelandhero preview" width="400"/>
 <img src="https://github.com/user-attachments/assets/b04f0fc7-e12b-436d-b229-11fa094705ae" alt="preview photo" width="400"/>
@@ -137,4 +137,4 @@ Besides data analysis, I am also passionate about creating **realistic textures*
 
 ---
 
-Thank you for visiting my profile!
+# Thank you for visiting my profile!
