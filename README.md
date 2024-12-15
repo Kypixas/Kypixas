@@ -1,6 +1,6 @@
 # Kristupas Pocius
 
-Welcome to my GitHub profile! I’m a Data Analyst with a background in Occupational Therapy, currently exploring the world of data analytics and creative design.
+#### Welcome to my GitHub profile! I’m a Data Analyst with a background in Occupational Therapy, currently exploring the world of data analytics and creative design.
 ---
 ### 🎯 About Me 
 
