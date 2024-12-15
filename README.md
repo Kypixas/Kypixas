@@ -45,11 +45,11 @@ This dashboard provides a comprehensive overview of the sales performance and cu
     - Insights into customer segments and product categories driving the most sales, enabling targeted sales strategies.
     - 
   
- 2. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3#readme)
+#### 2. [Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/kpociu-MAT2.1.3#readme)
+- **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate to understand user behavior and optimize retention strategies.  
+- **Technologies**: SQL, BigQuery, Google Spreadsheets  
+- **Outcome**: Identified key churn trends, provided actionable insights, and recommended strategies to improve subscription retention and reduce churn.
 
-    - **Description**: A detailed analysis of subscription retention, cohort analysis, and churn rate.  
-    - **Technologies**: SQL, BigQuery, Google Spreadsheets  
-    - **Outcome**: Key findings on churn trends and actionable insights to improve subscription retention.
       
 
 #### 3. [AdventureWorks Sales Analysis](https://github.com/TuringCollegeSubmissions/kpociu-IDA2.2.5/blob/main/AdventureWorks%20Sales%20Analysis.md)
